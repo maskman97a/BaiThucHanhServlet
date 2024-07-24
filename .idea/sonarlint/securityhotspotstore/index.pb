@@ -26,3 +26,7 @@ S
 #.idea/sonarlint/issuestore/index.pb,9/f/9fe84ebb15faf917b7def6236dba604453cc61e0
 7
 gradlew,5/b/5bbfa66edb4db3c7c33c5181f43510990d3307f9
+q
+Asrc/main/java/vn/codegym/thuchanhsevlet/servlet/LoginServlet.java,5/3/531ce5637d69e0c28dea1b602d40036595182dc8
+I
+src/main/webapp/login.jsp,8/5/85ee523d01e5e19376db640e846c91bbcb0a1c22
